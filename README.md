@@ -9,6 +9,11 @@ The dashboard goes beyond traditional reporting by enabling **scenario-based dec
 
 ---
 
+## ⚠️ Note
+
+To interact with the dashboard (e.g., adjust budget simulation), please download the `.pbix` file and open it in Power BI Desktop.
+
+
 ## 🎯 Business Problem
 
 Marketing teams often struggle to answer:
